@@ -8,7 +8,7 @@ I built this small app using Java and Maven for dependencies. This app
 3. Than it finds JS libraries on every single link and returns the frequency in the console
 
 
-There is a lot room for improvement as query the data from Scanner and so on. :) 
+There is a lot room for improvement as query the initial String from Scanner and so on. :) 
 
 So feel free to suggest
 
